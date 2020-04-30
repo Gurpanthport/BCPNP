@@ -1,8 +1,5 @@
-.custom-control-input input{
-	display: inline !important;
-	  position: absolute;
-  	opacity: 0;
-  	cursor: pointer;
+.cal{
+display: inline;
 }
 
 
