@@ -1,5 +1,8 @@
-.custom-control-input::input[type="radio"]{
+.custom-control-input input{
 	display: inline !important;
+	  position: absolute;
+  	opacity: 0;
+  	cursor: pointer;
 }
 
 
